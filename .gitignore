@@ -1,0 +1,22 @@
+# Security
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Application Cache
+desconexoes/cache/*
+!desconexoes/cache/.gitkeep
+
+# Logs
+*.log
+
+# Editor Directories
+.idea/
+.vscode/
+*.swp
+
+# Others
+favicon.ico
